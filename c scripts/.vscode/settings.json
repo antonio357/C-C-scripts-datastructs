@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "typeinfo": "c"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.terminalRoot": "mnt"
+}

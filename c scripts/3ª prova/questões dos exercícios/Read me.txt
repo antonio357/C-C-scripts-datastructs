@@ -1,0 +1,12 @@
+As questões do "Guia de aula prática - listas" do link - https://suap.ifpb.edu.br/media/edu/material_aula/ExerciciosLista.pdf
+estão respondidas nas pastas <lista> e <lista encadeada>
+
+
+
+A questão do final do slide "Aula - pilha" do link - https://suap.ifpb.edu.br/media/edu/material_aula/AulaPilhas.pdf
+
+está respondida na pasta <pilha necadeada>
+
+
+
+As outras pastas não tem resposta de nenhuma atividade
